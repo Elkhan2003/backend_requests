@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap');
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+
+    font-family: 'Jacques Francois Shadow', cursive;
+
+    background-color: aqua;
+
+    font-size: 15px;
+    line-height: 1.6;
+    color: aqua;
+}
+
+.intro {
+    background: url(../img/lamborghini-aventador-svj.jpg) no-repeat center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
